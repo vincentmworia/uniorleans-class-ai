@@ -12,7 +12,7 @@ X = iris.data
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
-# 2) (Optional) PCA for plotting later
+# 2) PCA for plotting later
 pca = PCA(n_components=2, random_state=0)
 X_pca = pca.fit_transform(X_scaled)
 
@@ -46,7 +46,7 @@ print(f"[Elbow] Chosen K = {best_k}")
 
 # 5) Plot elbow curve with chosen K highlighted
 plt.plot(K_values, inertias, marker='o')
-plt.scatter([best_k], [inertias[best_k-1]], s=120, marker='X', color='red', label=f'Chosen K = {best_k}')
+plt.scatter([best_k], [inertias[best_k - 1]], s=120, marker='X', color='red', label=f'Chosen K = {best_k}')
 plt.title("Elbow Method on Iris (Inertia vs K)")
 plt.xlabel("Number of clusters (K)")
 plt.ylabel("Inertia (within-cluster SSE)")

@@ -1,8 +1,7 @@
 # ============================================
-# Lab: Understanding and Applying K-Means Clustering
+# K-Means Clustering Algorithm
 # ============================================
 
-import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs, load_iris
 from sklearn.cluster import KMeans
