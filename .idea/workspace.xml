@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/class1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Orleans - AI Class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. dbscan.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. dbscan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. hierarchial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. hierarchial.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33on3sMatUpMVvoO4t4EYLvaYNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1. kmeansiris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.kmeans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. dbscan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.dbscan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3. hierarchial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.hierarchial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.linear_regression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6. logisticregression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9. randomforest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kmeans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/Orleans - AI Class&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.28774.16" />
+        <option value="bundled-python-sdk-14d54ed193d7-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.28774.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="" />
+      <created>1759992097144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759992097144</updated>
+      <workItem from="1759992098141" duration="2793000" />
+      <workItem from="1760004320517" duration="164000" />
+      <workItem from="1760343683543" duration="130000" />
+      <workItem from="1760343824925" duration="3988000" />
+      <workItem from="1760350223316" duration="624000" />
+      <workItem from="1760350878424" duration="1193000" />
+      <workItem from="1760432077329" duration="306000" />
+      <workItem from="1760433451808" duration="1225000" />
+      <workItem from="1760593383238" duration="1257000" />
+      <workItem from="1760605689754" duration="117000" />
+      <workItem from="1760783064193" duration="4780000" />
+      <workItem from="1760793653490" duration="913000" />
+      <workItem from="1760794626199" duration="2581000" />
+      <workItem from="1760951117795" duration="123000" />
+      <workItem from="1760951426332" duration="3626000" />
+      <workItem from="1760955305849" duration="382000" />
+      <workItem from="1761037582346" duration="1935000" />
+      <workItem from="1761041035771" duration="718000" />
+      <workItem from="1762426872769" duration="5036000" />
+      <workItem from="1762509438737" duration="333000" />
+      <workItem from="1762510884241" duration="1791000" />
+      <workItem from="1762591673710" duration="5798000" />
+      <workItem from="1762787076971" duration="199000" />
+      <workItem from="1762848233709" duration="1250000" />
+      <workItem from="1762852361635" duration="420000" />
+      <workItem from="1762853053012" duration="169000" />
+      <workItem from="1762853762308" duration="7061000" />
+      <workItem from="1762861427994" duration="4365000" />
+      <workItem from="1762874861033" duration="1192000" />
+      <workItem from="1762930003332" duration="1710000" />
+      <workItem from="1762934939943" duration="1999000" />
+      <workItem from="1762954623076" duration="44000" />
+      <workItem from="1763189693233" duration="3013000" />
+      <workItem from="1763194431006" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/class1$6__logisticregression.coverage" NAME="6. logisticregression Coverage Results" MODIFIED="1760955378602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1763190414370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$4_linear_regression.coverage" NAME="4.linear_regression Coverage Results" MODIFIED="1760350682216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762861796280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$2_dbscan.coverage" NAME="2.dbscan Coverage Results" MODIFIED="1760794146558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$3_hierarchial.coverage" NAME="3.hierarchial Coverage Results" MODIFIED="1760346301408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762859816017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1759993718297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$test.coverage" NAME="test Coverage Results" MODIFIED="1759992489151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$1__kmeansiris.coverage" NAME="1. kmeansiris Coverage Results" MODIFIED="1762596220813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$1_kmeans.coverage" NAME="1.kmeans Coverage Results" MODIFIED="1762429252295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$9__randomforest.coverage" NAME="9. randomforest Coverage Results" MODIFIED="1762511036904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$9__randomforest.coverage" NAME="9. randomforest Coverage Results" MODIFIED="1762935170971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

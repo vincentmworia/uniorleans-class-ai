@@ -1,8 +1,6 @@
 # ============================================
-# Lab: Discovering Density-Based Clustering with DBSCAN
+# Density-Based Spatial Clustering of Applications with Noise (DBSCAN) Clustering Algorithm
 # ============================================
-
-import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_moons, load_iris
 from sklearn.cluster import DBSCAN, KMeans
@@ -128,11 +126,11 @@ plt.show()
 # Count noise points
 n_noise = list(labels_iris).count(-1)
 n_clusters = len(set(labels_iris)) - (1 if -1 in labels_iris else 0)
-print(f"Number of clusters: {n_clusters}")
-print(f"Number of noise points: {n_noise}")
+print(f"Number of clusters <Iris Dataset>: {n_clusters}")
+print(f"Number of noise points <Iris Dataset>: {n_noise}")
 
 # ============================================
-# Part 7: Going Further - Varying Density
+# Part 7a: Varying Density
 # ============================================
 
 from sklearn.datasets import make_blobs
@@ -152,4 +150,83 @@ plt.title("DBSCAN on Data with Varying Density")
 plt.grid(True)
 plt.show()
 
-print("Lab completed!")
+# ============================================
+# Part 7b: Silhouette Score or Adjusted Rand Index
+# ============================================
+from sklearn.metrics import silhouette_score, adjusted_rand_score
+
+# --- Evaluate DBSCAN on the two-moons dataset ---
+dbscan_eval = DBSCAN(eps=0.2, min_samples=5)
+labels_eval = dbscan_eval.fit_predict(X)
+
+# Compute number of clusters and noise points
+n_clusters = len(set(labels_eval)) - (1 if -1 in labels_eval else 0)
+n_noise = list(labels_eval).count(-1)
+
+print(f"Number of clusters <Moons Dataset>: {n_clusters}")
+print(f"Number of noise points <Moons Dataset>: {n_noise}")
+
+# Compute Silhouette Score (only if ≥2 clusters)
+if n_clusters > 1:
+    sil_score = silhouette_score(X[labels_eval != -1], labels_eval[labels_eval != -1])
+    print(f"Silhouette Score: {sil_score:.3f}")
+else:
+    print("Silhouette Score: not applicable (only one cluster)")
+
+# Compute Adjusted Rand Index (requires true labels y)
+ari_score = adjusted_rand_score(y, labels_eval)
+print(f"Adjusted Rand Index: {ari_score:.3f}")
+
+# ============================================
+# Part 7c: HDBSCAN on Varying-Density Data
+# ============================================
+
+import hdbscan
+from sklearn.metrics import silhouette_score, adjusted_rand_score
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Fit HDBSCAN (good parameters for varying densities)
+hdb = hdbscan.HDBSCAN(min_cluster_size=15, min_samples=5)
+labels_hdb = hdb.fit_predict(X_var)  # -1 = noise label
+
+# Basic counts
+n_noise_hdb = np.count_nonzero(labels_hdb == -1)
+n_clusters_hdb = len(set(labels_hdb)) - (1 if -1 in labels_hdb else 0)
+print(f"HDBSCAN - clusters (excluding noise): {n_clusters_hdb}")
+print(f"HDBSCAN - noise points: {n_noise_hdb}")
+
+# Metrics
+mask_hdb = labels_hdb != -1
+if n_clusters_hdb >= 2 and np.count_nonzero(mask_hdb) > 1:
+    sil_hdb = silhouette_score(X_var[mask_hdb], labels_hdb[mask_hdb])
+    print(f"HDBSCAN - Silhouette (non-noise): {sil_hdb:.3f}")
+else:
+    print("HDBSCAN - Silhouette (non-noise): n/a (need ≥2 clusters among non-noise points)")
+
+ari_hdb = adjusted_rand_score(y_var, labels_hdb)
+print(f"HDBSCAN - Adjusted Rand Index: {ari_hdb:.3f}")
+
+# Plot
+unique_labels = np.unique(labels_hdb)
+non_noise = [lbl for lbl in unique_labels if lbl != -1]
+palette = plt.colormaps["plasma"](np.linspace(0, 1, max(len(non_noise), 1)))  # Updated API
+color_map = {lbl: col for lbl, col in zip(non_noise, palette)}
+color_map[-1] = 'k'  # noise in black
+
+plt.figure(figsize=(7, 5))
+for lbl in unique_labels:
+    mask = labels_hdb == lbl
+    if lbl == -1:
+        plt.scatter(X_var[mask, 0], X_var[mask, 1], s=50, color=color_map[-1],
+                    label=f"Noise (n={np.count_nonzero(mask)})")
+    else:
+        plt.scatter(X_var[mask, 0], X_var[mask, 1], s=50, color=color_map[lbl],
+                    label=f"Cluster {lbl} (n={np.count_nonzero(mask)})")
+
+plt.title("HDBSCAN on Data with Varying Density")
+plt.xlabel("X-coordinate")
+plt.ylabel("Y-coordinate")
+plt.grid(True)
+plt.legend(loc="best")
+plt.show()

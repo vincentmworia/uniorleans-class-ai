@@ -2,7 +2,6 @@
 # Lab: Understanding Hierarchical Clustering
 # ============================================
 
-import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets import make_blobs, load_iris
 from sklearn.cluster import AgglomerativeClustering
