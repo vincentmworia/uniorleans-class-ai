@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Report.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/class1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Orleans - AI Class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. dbscan.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. dbscan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3. hierarchial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. hierarchial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +108,14 @@
       <workItem from="1762934939943" duration="1999000" />
       <workItem from="1762954623076" duration="44000" />
       <workItem from="1763189693233" duration="3013000" />
-      <workItem from="1763194431006" duration="344000" />
+      <workItem from="1763194431006" duration="514000" />
+      <workItem from="1763284299356" duration="376000" />
+      <workItem from="1763455944672" duration="107000" />
+      <workItem from="1763544647246" duration="1199000" />
+      <workItem from="1763654995064" duration="187000" />
+      <workItem from="1763709099872" duration="4350000" />
+      <workItem from="1764000622675" duration="94000" />
+      <workItem from="1764248629332" duration="1363000" />
     </task>
     <servers />
   </component>
@@ -124,7 +124,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/class1$6__logisticregression.coverage" NAME="6. logisticregression Coverage Results" MODIFIED="1760955378602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1763190414370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1764249229346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$4_linear_regression.coverage" NAME="4.linear_regression Coverage Results" MODIFIED="1760350682216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762861796280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2_dbscan.coverage" NAME="2.dbscan Coverage Results" MODIFIED="1760794146558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

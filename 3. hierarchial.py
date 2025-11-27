@@ -76,7 +76,7 @@ fig, axes = plt.subplots(2, 2, figsize=(14, 12))
 axes = axes.ravel()
 
 for i, method in enumerate(methods):
-    linked = linkage(X, method=method)
+    linked = linkage(X, method=method, metric='euclidean')
 
     axes[i].set_title(f"Dendrogram ({method.capitalize()} linkage)")
     dendrogram(linked, ax=axes[i])
@@ -187,5 +187,3 @@ axes[2].grid(True)
 
 plt.tight_layout()
 plt.show()
-
-print("Lab completed!")
