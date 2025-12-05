@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. hierarchial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. hierarchial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. regression.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$b Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~WRL0005.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
     &quot;Python.2.dbscan.executor&quot;: &quot;Run&quot;,
     &quot;Python.3. hierarchial.executor&quot;: &quot;Run&quot;,
     &quot;Python.3.hierarchial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4. regression.executor&quot;: &quot;Run&quot;,
     &quot;Python.4.linear_regression.executor&quot;: &quot;Run&quot;,
     &quot;Python.6. logisticregression.executor&quot;: &quot;Run&quot;,
     &quot;Python.9. randomforest.executor&quot;: &quot;Run&quot;,
@@ -115,7 +118,11 @@
       <workItem from="1763654995064" duration="187000" />
       <workItem from="1763709099872" duration="4350000" />
       <workItem from="1764000622675" duration="94000" />
-      <workItem from="1764248629332" duration="1363000" />
+      <workItem from="1764248629332" duration="1743000" />
+      <workItem from="1764250745751" duration="5581000" />
+      <workItem from="1764256479795" duration="2524000" />
+      <workItem from="1764334955145" duration="344000" />
+      <workItem from="1764336636367" duration="29000" />
     </task>
     <servers />
   </component>
@@ -128,6 +135,7 @@
     <SUITE FILE_PATH="coverage/class1$4_linear_regression.coverage" NAME="4.linear_regression Coverage Results" MODIFIED="1760350682216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762861796280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2_dbscan.coverage" NAME="2.dbscan Coverage Results" MODIFIED="1760794146558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression.coverage" NAME="4. regression Coverage Results" MODIFIED="1764258667932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$3_hierarchial.coverage" NAME="3.hierarchial Coverage Results" MODIFIED="1760346301408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762859816017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1759993718297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
