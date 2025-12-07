@@ -124,7 +124,7 @@ plt.legend(loc="lower right")
 plt.tight_layout()
 plt.show()
 
-# (Optional) If you want the AUC computed from hard labels (not recommended):
+# If you want the AUC computed from hard labels (not recommended):
 auc_from_labels = roc_auc_score(y_test, y_pred)
 print(f"\nAUC (using predicted probabilities): {auc_score:.4f}")
 print(f"AUC (using hard labels only):        {auc_from_labels:.4f}")
