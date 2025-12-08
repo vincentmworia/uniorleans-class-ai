@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5. logisticregression.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. logisticregression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,9 @@
       <workItem from="1764935925618" duration="14312000" />
       <workItem from="1765013956736" duration="6330000" />
       <workItem from="1765037063182" duration="971000" />
-      <workItem from="1765105564497" duration="2388000" />
+      <workItem from="1765105564497" duration="3073000" />
+      <workItem from="1765117829434" duration="61000" />
+      <workItem from="1765201936194" duration="22000" />
     </task>
     <servers />
   </component>
