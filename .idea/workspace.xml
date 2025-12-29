@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. kmeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. kmeans_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. dbscan.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. dbscan_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. hierarchial.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. hierarchial_clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. regression_linear_multiple_polynomial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5. logisticregression.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. logistic_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. knn.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. knn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9. randomforest.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. randomforest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,9 @@
     "Python.3. hierarchial.executor": "Run",
     "Python.3.hierarchial.executor": "Run",
     "Python.4. regression.executor": "Run",
+    "Python.4. regression_linear_multiple_polynomial.executor": "Run",
     "Python.4.linear_regression.executor": "Run",
+    "Python.5. logistic_regression.executor": "Run",
     "Python.5. logisticregression.executor": "Run",
     "Python.6. knn.executor": "Run",
     "Python.6. logisticregression.executor": "Run",
@@ -138,7 +134,9 @@
       <workItem from="1765206511364" duration="3279000" />
       <workItem from="1765740012153" duration="85000" />
       <workItem from="1766924353971" duration="4396000" />
-      <workItem from="1766957195513" duration="1202000" />
+      <workItem from="1766957195513" duration="3757000" />
+      <workItem from="1766961025656" duration="2347000" />
+      <workItem from="1766995886420" duration="11204000" />
     </task>
     <servers />
   </component>
@@ -151,9 +149,11 @@
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1764249229346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$4_linear_regression.coverage" NAME="4.linear_regression Coverage Results" MODIFIED="1760350682216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762861796280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$5__logistic_regression.coverage" NAME="5. logistic_regression Coverage Results" MODIFIED="1767005991925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2_dbscan.coverage" NAME="2.dbscan Coverage Results" MODIFIED="1760794146558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression_linear_multiple_polynomial.coverage" NAME="4. regression_linear_multiple_polynomial Coverage Results" MODIFIED="1766996003173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression.coverage" NAME="4. regression Coverage Results" MODIFIED="1764973655721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$6__knn.coverage" NAME="6. knn Coverage Results" MODIFIED="1766958205026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$6__knn.coverage" NAME="6. knn Coverage Results" MODIFIED="1766959721757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$3_hierarchial.coverage" NAME="3.hierarchial Coverage Results" MODIFIED="1760346301408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762859816017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1759993718297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
