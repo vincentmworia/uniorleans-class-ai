@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="70e30527-e3c5-45fa-be00-87121364ff66" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. gradient_descent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Report.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/~$b Report.docx" beforeDir="false" afterPath="$PROJECT_DIR$/~$b Report.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~WRL0003.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,44 +33,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1. kmeansiris.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1.kmeans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10. gradient_descent.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2. dbscan.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.dbscan.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3. hierarchial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.hierarchial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4. regression_linear_multiple_polynomial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.linear_regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. logistic_regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5. logisticregression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. knn.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6. logisticregression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7. Tree_Based_Clustering_Silhouette_Splitting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8. Random_Forest_Classification.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. SVM.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9. randomforest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gpt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kmeans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/Orleans - AI Class&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1. kmeansiris.executor": "Run",
+    "Python.1.kmeans.executor": "Run",
+    "Python.10. gradient_descent.executor": "Run",
+    "Python.11. Perceptron.executor": "Run",
+    "Python.2. dbscan.executor": "Run",
+    "Python.2.dbscan.executor": "Run",
+    "Python.3. hierarchial.executor": "Run",
+    "Python.3.hierarchial.executor": "Run",
+    "Python.4. regression.executor": "Run",
+    "Python.4. regression_linear_multiple_polynomial.executor": "Run",
+    "Python.4.linear_regression.executor": "Run",
+    "Python.5. logistic_regression.executor": "Run",
+    "Python.5. logisticregression.executor": "Run",
+    "Python.6. knn.executor": "Run",
+    "Python.6. logisticregression.executor": "Run",
+    "Python.7. Tree_Based_Clustering_Silhouette_Splitting.executor": "Run",
+    "Python.8. Random_Forest_Classification.executor": "Run",
+    "Python.9. SVM.executor": "Run",
+    "Python.9. randomforest.executor": "Run",
+    "Python.gpt.executor": "Run",
+    "Python.kmeans.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Python/Orleans - AI Class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -146,7 +146,8 @@
       <workItem from="1766995886420" duration="12066000" />
       <workItem from="1767020214181" duration="5067000" />
       <workItem from="1767042533847" duration="4040000" />
-      <workItem from="1767085238545" duration="2810000" />
+      <workItem from="1767085238545" duration="5192000" />
+      <workItem from="1767096892538" duration="3732000" />
     </task>
     <servers />
   </component>
@@ -154,27 +155,28 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/class1$6__logisticregression.coverage" NAME="6. logisticregression Coverage Results" MODIFIED="1760955378602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$10__gradient_descent.coverage" NAME="10. gradient_descent Coverage Results" MODIFIED="1767087826369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$5__logisticregression.coverage" NAME="5. logisticregression Coverage Results" MODIFIED="1765105606303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$8__Random_Forest_Classification.coverage" NAME="8. Random_Forest_Classification Coverage Results" MODIFIED="1767045166011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1764249229346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$4_linear_regression.coverage" NAME="4.linear_regression Coverage Results" MODIFIED="1760350682216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762861796280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$5__logistic_regression.coverage" NAME="5. logistic_regression Coverage Results" MODIFIED="1767005991925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2_dbscan.coverage" NAME="2.dbscan Coverage Results" MODIFIED="1760794146558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$7__Tree_Based_Clustering_Silhouette_Splitting.coverage" NAME="7. Tree_Based_Clustering_Silhouette_Splitting Coverage Results" MODIFIED="1767029889033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression_linear_multiple_polynomial.coverage" NAME="4. regression_linear_multiple_polynomial Coverage Results" MODIFIED="1766996003173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression.coverage" NAME="4. regression Coverage Results" MODIFIED="1764973655721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$9__SVM.coverage" NAME="9. SVM Coverage Results" MODIFIED="1767085498554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Orleans___AI_Class$6__knn.coverage" NAME="6. knn Coverage Results" MODIFIED="1766959721757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$3_hierarchial.coverage" NAME="3.hierarchial Coverage Results" MODIFIED="1760346301408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$2__dbscan.coverage" NAME="2. dbscan Coverage Results" MODIFIED="1762859816017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$kmeans.coverage" NAME="kmeans Coverage Results" MODIFIED="1759993718297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$test.coverage" NAME="test Coverage Results" MODIFIED="1759992489151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$1_kmeans.coverage" NAME="1.kmeans Coverage Results" MODIFIED="1762429252295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/class1$6__logisticregression.coverage" NAME="6. logisticregression Coverage Results" MODIFIED="1760955378602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$3__hierarchial.coverage" NAME="3. hierarchial Coverage Results" MODIFIED="1764249229346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$5__logistic_regression.coverage" NAME="5. logistic_regression Coverage Results" MODIFIED="1767005991925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$7__Tree_Based_Clustering_Silhouette_Splitting.coverage" NAME="7. Tree_Based_Clustering_Silhouette_Splitting Coverage Results" MODIFIED="1767029889033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$11__Perceptron.coverage" NAME="11. Perceptron Coverage Results" MODIFIED="1767099233985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression_linear_multiple_polynomial.coverage" NAME="4. regression_linear_multiple_polynomial Coverage Results" MODIFIED="1766996003173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$4__regression.coverage" NAME="4. regression Coverage Results" MODIFIED="1764973655721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$9__SVM.coverage" NAME="9. SVM Coverage Results" MODIFIED="1767085498554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Orleans___AI_Class$6__knn.coverage" NAME="6. knn Coverage Results" MODIFIED="1766959721757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$1__kmeansiris.coverage" NAME="1. kmeansiris Coverage Results" MODIFIED="1762596220813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$gpt.coverage" NAME="gpt Coverage Results" MODIFIED="1766940862698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/class1$1_kmeans.coverage" NAME="1.kmeans Coverage Results" MODIFIED="1762429252295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/class1$9__randomforest.coverage" NAME="9. randomforest Coverage Results" MODIFIED="1762511036904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Orleans___AI_Class$9__randomforest.coverage" NAME="9. randomforest Coverage Results" MODIFIED="1766940841787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
